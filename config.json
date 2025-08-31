@@ -1,0 +1,18 @@
+{
+    "username": "Marcelo",
+    "appearance_mode": "Light",
+    "font_family": "System",
+    "font_size": 13,
+    "status": "available",
+    "admin_log_enabled": false,
+    "admin_log_directory": "",
+    "admin_password": "admin",
+    "icon_style": "Line",
+    "text_color": "#FFFFFF",
+    "accent_color": "#3A7EBF",
+    "downloads_folder": "C:\\Users\\marce\\Lan Messenger\\Ficheiros Recebidos",
+    "font_bold": false,
+    "balloon_color": "#3A7EBF",
+    "contact_balloon_color": "#5CA9F7",
+    "downloads_path": ""
+}
